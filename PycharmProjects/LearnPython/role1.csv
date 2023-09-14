@@ -1,0 +1,6 @@
+user1,administrator,operator,engineer
+user2,administrator,engineer,
+user3,operator,,
+user4,engineer,,
+user5,operator,engineer,
+user6,,,
